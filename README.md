@@ -17,22 +17,22 @@ python main.py
 ```
 
 ## TODO
-[x] - Extrair informações principais
-[x] - Extrair aba Identificação
-[x] - Extrair aba Formação acadêmica/titulação
-[x] - Extrair aba Formação Complementar
-[ ] - Extrair aba Atuação Profissional
-[ ] - Extrair aba Projetos de pesquisa
-[ ] - Extrair aba Projetos de extensão
-[ ] - Extrair aba Revisor de periódico
-[ ] - Extrair aba Áreas de atuação
-[ ] - Extrair aba Idiomas
-[ ] - Extrair aba Prêmios e títulos
-[ ] - Extrair aba Produções
-[ ] - Extrair aba Patentes e registros
-[ ] - Extrair aba Bancas
-[ ] - Extrair aba Eventos
-[ ] - Extrair aba Orientações
-[ ] - Extrair aba Inovação
-[ ] - Extrair aba Educação e Popularização de C & T
-[ ] - Extrair aba Outras informações relevantes
+- [x] Extrair informações principais
+- [x] Extrair aba Identificação
+- [x] Extrair aba Formação acadêmica/titulação
+- [x] Extrair aba Formação Complementar
+- [ ] Extrair aba Atuação Profissional
+- [ ] Extrair aba Projetos de pesquisa
+- [ ] Extrair aba Projetos de extensão
+- [ ] Extrair aba Revisor de periódico
+- [ ] Extrair aba Áreas de atuação
+- [ ] Extrair aba Idiomas
+- [ ] Extrair aba Prêmios e títulos
+- [ ] Extrair aba Produções
+- [ ] Extrair aba Patentes e registros
+- [ ] Extrair aba Bancas
+- [ ] Extrair aba Eventos
+- [ ] Extrair aba Orientações
+- [ ] Extrair aba Inovação
+- [ ] Extrair aba Educação e Popularização de C & T
+- [ ] Extrair aba Outras informações relevantes
